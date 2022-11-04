@@ -8,7 +8,7 @@ def printFor1():
     for x in range(0, 11):
         print("x->", x)
     else:
-        print("Completed!")
+        print("Finished!")
 
 def main():
     # Testing, run the following function one by one
